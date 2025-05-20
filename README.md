@@ -2,4 +2,4 @@
 
 <a href="https://www.notion.so/1295fdbbec1b80dea00acf3ef18c9b10?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=has8781)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=has8781&hide=contribs,prs&show_icons=true&theme=black)](https://github.com/anuraghazra/github-readme-stats)
